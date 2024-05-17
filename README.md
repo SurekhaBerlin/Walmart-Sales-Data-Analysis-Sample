@@ -67,10 +67,10 @@ Sales Strategies: Based on your analysis, provide recommendations on how to impr
     
 **Sales
 
-1.Number of sales made in each time of the day per weekday
-2.Which of the customer types brings the most revenue?
-3.Which city has the largest tax percent/ VAT (Value Added Tax)?
-4.Which customer type pays the most in VAT?
+1. Number of sales made in each time of the day per weekday
+2. Which of the customer types brings the most revenue?
+3. Which city has the largest tax percent/ VAT (Value Added Tax)?
+4. Which customer type pays the most in VAT?
 
 
 **Customer
