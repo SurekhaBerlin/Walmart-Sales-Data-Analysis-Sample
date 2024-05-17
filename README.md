@@ -13,3 +13,30 @@ About Data:
 
 The dataset was obtained from the Kaggle Walmart Sales Forecasting Competition. This dataset contains sales transactions from a three different branches of Walmart, respectively located in Mandalay, Yangon and Naypyitaw. The data contains 17 columns and 1000 rows:
 
+Project Outline:
+Data Exploration and Cleaning:
+
+Load Data: Import the dataset into your analysis environment (e.g., Python, R, Power BI).
+Initial Exploration: Understand the structure of the dataset, including columns, data types, and missing values.
+Data Cleaning: Handle missing values, outliers, and inconsistencies in the data.
+Descriptive Analysis:
+
+Summary Statistics: Calculate mean, median, standard deviation, etc., for numerical columns.
+Sales Trends: Analyze sales trends over time, both overall and for individual stores and departments.
+Top Performing Branches and Products: Identify which branches and products are performing best based on total sales.
+Customer Behavior Analysis:
+
+Holiday Markdown Impact: Study the effect of holiday markdown events on sales. Identify which departments and stores are most affected.
+Seasonality: Analyze seasonal patterns in sales data.
+Visualization:
+
+Sales Trends: Create time series plots to visualize sales trends over time.
+Top Products and Branches: Use bar charts, heatmaps, and other visualizations to showcase top-performing branches and products.
+Holiday Markdown Impact: Visualize the impact of markdowns on sales using line plots, bar charts, etc.
+Predictive Analysis:
+
+Sales Forecasting: Use time series analysis and machine learning models to forecast future sales for each department and store.
+Model Evaluation: Evaluate the performance of your models using metrics like RMSE, MAE, etc.
+Optimization Recommendations:
+
+Sales Strategies: Based on your analysis, provide recommendations on how to improve and optimize sales strategies. This could include suggestions for markdown events, inventory management, and targeted promotions.
